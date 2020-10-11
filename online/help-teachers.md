@@ -36,7 +36,7 @@ setup.bat frank amina joseph sarah
 sh setup.sh frank amina joseph sarah
 ```
 
-Le répertoire de travail du formateur sera créé automatiquement sous le nom `konexio`.
+Le répertoire de travail du formateur sera créé automatiquement sous le nom `konexio`. Cinq répertoires seront donc créés dans `session1` : `konexio`, `frank`, `amina`, `joseph` et `sarah` avec les fichiers des exercices copiés dans chacun de ces répertoires.
 
 #### Lancer une session collaborative sur Live Share
 

@@ -30,10 +30,10 @@ Par exemple depuis le répertoire `session1`, exécutez le script avec les prén
 
 ```bash
 # Windows
-setup.bat frank amina joseph sarah
+..\online\setup.bat frank amina joseph sarah
 
 # macOS/Linux
-sh setup.sh frank amina joseph sarah
+sh ../online/setup.sh frank amina joseph sarah
 ```
 
 Le répertoire de travail du formateur sera créé automatiquement sous le nom `konexio`. Cinq répertoires seront donc créés dans `session1` : `konexio`, `frank`, `amina`, `joseph` et `sarah` avec les fichiers des exercices copiés dans chacun de ces répertoires.
